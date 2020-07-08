@@ -1,0 +1,91 @@
+.container{
+    margin-bottom: 70px;
+}
+.top-header{
+    background-color: #f0fff0;
+    height: 100%; 
+    width: 100%;
+    margin-bottom: 70px;
+}
+
+
+.navbar img{
+    height: 50px;
+    width: 150px;
+}
+
+.bg-light{
+    background-color: #f0fff0 !important;
+}
+
+.btn-success{
+    border-radius: 20px;
+    padding: 0 15px 0 15px;
+}
+
+.top-banner{
+    height: 100%;
+    width: 100%;
+}
+.bannar-bg{
+    background-color: #f0fff0;
+    background-size: cover;
+    background-position: center;
+    
+   
+}
+
+.green-text{
+    color: green;
+   
+}
+.catalog{
+    
+    
+    background-color: #f0fff0;
+    text-align:center;
+    padding:25px;
+    
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+
+}
+
+.catalog img{
+   width: 65px;
+   height: 80px;
+}
+
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.card-img-top{
+    padding:20px;
+}
+
+.testo{
+    width: 80%;
+    height: auto;
+}
+.testo-text{
+    padding: 50px;
+}
+.text-center{
+    margin-bottom: 40px;
+}
+
+.footer{
+    background-color: black;
+    height: auto;
+    width: 100%;
+}
