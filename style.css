@@ -1,3 +1,4 @@
+
 .container{
     margin-bottom: 70px;
 }
@@ -31,8 +32,6 @@
     background-color: #f0fff0;
     background-size: cover;
     background-position: center;
-    
-   
 }
 
 .green-text{
@@ -40,9 +39,7 @@
    
 }
 .catalog{
-    
-    
-    background-color: #f0fff0;
+    background-color: white;
     text-align:center;
     padding:25px;
     
@@ -50,6 +47,9 @@
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
 
+}
+.catalog:hover{
+    background-color: #f0fff0;
 }
 
 .catalog img{
@@ -81,11 +81,20 @@
     padding: 50px;
 }
 .text-center{
-    margin-bottom: 40px;
+    margin-top: 30px;
 }
 
 .footer{
-    background-color: black;
+    background-color:rgb(26, 25, 25);
     height: auto;
     width: 100%;
+    color: rgb(204, 200, 200);
+    font-weight: lighter;
+    padding: 40px;
 }
+
+.container-footer{
+    width: 100%;
+    overflow-x: hidden;
+}
+
