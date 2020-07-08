@@ -40,6 +40,10 @@
     color: green;
    
 }
+
+h1{
+    font-weight: bolder;
+}
 .catalog{
     background-color: white;
     text-align:center;
